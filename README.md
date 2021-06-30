@@ -1,7 +1,7 @@
 
 **Chulth's GitHub:**
-<p align="center" width="100%">
-    <img aligne="center" src="https://user-images.githubusercontent.com/30079428/123889885-b85fb300-d92c-11eb-93df-07a974e21eb2.gif" style="display:block;float:center;margin-left:auto;margin-right:auto;width:60%"> 
+<p align="center" width="40%">
+    <img aligne="center" src="https://user-images.githubusercontent.com/30079428/123893759-5c4c5d00-d933-11eb-9718-3ff536e83caf.gif" style="display:block;float:center;margin-left:auto;margin-right:auto;width:40%"> 
 
 </p>
 
