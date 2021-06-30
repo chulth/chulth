@@ -1,13 +1,14 @@
-<img align="right"  width="40%" src="https://user-images.githubusercontent.com/30079428/123732022-a79d3780-d86f-11eb-933e-ac9ca0a8f4b2.jpg" />
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]![tumblr_62829d83f726f5e14e16d9e8abc154de_217ef8ea_540](https://user-images.githubusercontent.com/30079428/123889885-b85fb300-d92c-11eb-93df-07a974e21eb2.gif)
 
 <br />
 
-
+<p style="text-align: center;">
 - 👋 Hi, I’m John
 - 👀 I’m interested in Python, Machine Learning and Data Science
 - 🌱 I’m currently learning Automation processes
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me [Linkedin]
+</p>
 
 
 ### Connect with me:
@@ -38,8 +39,6 @@
 
 <br />
 <br />
-
-
 
 [github]: https://github.com/chulth
 [twitter]: https://twitter.com/JohnJBulla1
