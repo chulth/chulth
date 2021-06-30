@@ -1,4 +1,10 @@
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github][<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]![tumblr_62829d83f726f5e14e16d9e8abc154de_217ef8ea_540](https://user-images.githubusercontent.com/30079428/123889885-b85fb300-d92c-11eb-93df-07a974e21eb2.gif)
+
+**Chulth's GitHub:**
+<p align="center" width="100%">
+    <img aligne="center" src="https://user-images.githubusercontent.com/30079428/123889885-b85fb300-d92c-11eb-93df-07a974e21eb2.gif" style="display:block;float:center;margin-left:auto;margin-right:auto;width:60%"> 
+
+</p>
+
 
 <br />
 
@@ -8,7 +14,6 @@
 - 🌱 I’m currently learning Automation processes
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me [Linkedin]
-</p>
 
 
 ### Connect with me:
