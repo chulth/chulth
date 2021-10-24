@@ -15,19 +15,19 @@ I have experience in Python (Django and RestFramework) and JavaScript (React), I
 
 ### Connect with me:
 
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="YouTube" width="22px" src="https://findicons.com/icon/75779/drink_youtube" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.icons8.com/doodle/30/000000/github--v1.png"/>][github]
+[<img src="https://img.icons8.com/doodle/30/000000/youtube-play--v2.png"/>][youtube]
+[<img src="https://img.icons8.com/doodle/30/000000/twitter--v1.png"/>][twitter]
+[<img src="https://img.icons8.com/doodle/30/000000/linkedin-circled.png"/>][linkedin]
+[<img src="https://img.icons8.com/doodle/30/000000/instagram-new.png"/>][instagram]
 
 <br />
 <br />
 
-### Languages and Tools:
+### Some technologies I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img src="https://img.icons8.com/ios/48/000000/github--v2.png"/>
+<img src="https://img.icons8.com/color-glass/30/000000/github.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
