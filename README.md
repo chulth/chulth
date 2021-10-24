@@ -15,11 +15,11 @@ I have experience in Python (Django and RestFramework) and JavaScript (React), I
 
 ### Connect with me:
 
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img src="https://img.icons8.com/office/30/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>][github]
+[<img src="https://img.icons8.com/doodle/48/000000/play-button-circled.png"/>][youtube]
+[<img src="https://img.icons8.com/doodle/30/000000/twitter--v1.png"/>][twitter]
+[<img src="https://img.icons8.com/doodle/30/000000/linkedin-circled.png"/>][linkedin]
+[<img src="https://img.icons8.com/doodle/30/000000/instagram-new.png"/>][instagram]
 
 <br />
 <br />
