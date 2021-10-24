@@ -16,7 +16,7 @@ I have experience in Python (Django and RestFramework) and JavaScript (React), I
 ### Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="YouTube" width="22px" src="https://www.flaticon.com/premium-icon/youtube_2875432?term=youtube&page=1&position=3&page=1&position=3&related_id=2875432&origin=search" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="https://icons8.com/icon/31939/youtube" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
