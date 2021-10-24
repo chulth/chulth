@@ -9,8 +9,26 @@
 <br />
 
 <p style="text-align: center;">
-- 👋 Hi, I’m John
-I have experience in Python (Django and RestFramework) and JavaScript (React), I like to develop cutting edge technology and learn new ways to apply it. I have a high level of self-learning, motivation and leadership. I feel comfortable in high-level projects and companies. I look forward to working with wonderful people that you can learn and share from every day.
+👋 Hi, I’m John. <br />
+    <p>
+        🔭 I’m currently working on:<br />
+        I work like Software Developer in Python (Django and RestFramework) and JavaScript (React). <br />
+        🤔 I’m looking for help with:<br />
+        Develop cutting edge technology and learn new ways to apply it. <br />
+        👯 I’m looking to collaborate on:<br />
+        I look forward to working with wonderful people that you can learn and share from every day. <br />
+        🤝 I'm want to develop:<br />
+        Software that is related to Python, data science, trading and crypto.<br />
+    </p>
+
+ <br />
+<br />
+<a href="https://github.com/chulth?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chulth&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Chulth's GitHub Stats" />
+</a>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=chulth)
+  ---- -->
 
 
 ### Connect with me:
@@ -21,8 +39,6 @@ I have experience in Python (Django and RestFramework) and JavaScript (React), I
 [<img src="https://img.icons8.com/doodle/30/000000/linkedin-circled.png"/>][linkedin]
 [<img src="https://img.icons8.com/doodle/30/000000/instagram-new.png"/>][instagram]
 
-<br />
-<br />
 
 ### Some technologies I use:
 
@@ -42,8 +58,20 @@ I have experience in Python (Django and RestFramework) and JavaScript (React), I
 <br />
 <br />
 
+#### 
+    
+<a href="https://github.com/chulth?tab=repositories">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulth&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+</a>
+
+<br />
+    
+
 [github]: https://github.com/chulth
 [twitter]: https://twitter.com/JohnJBulla1
 [youtube]: https://www.youtube.com/channel/UC9C_yeY7x_eb_VqzlpUHaEw
 [instagram]: https://www.instagram.com/jhonjairoud/
 [linkedin]: https://www.linkedin.com/in/john-bulla-85603356/
+    
+    
+ 
