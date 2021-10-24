@@ -10,16 +10,13 @@
 
 <p style="text-align: center;">
 - 👋 Hi, I’m John
-- 👀 I’m interested in Python, Machine Learning and Data Science
-- 🌱 I’m currently learning Automation processes
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me [Linkedin]
+I have experience in Python (Django and RestFramework) and JavaScript (React), I like to develop cutting edge technology and learn new ways to apply it. I have a high level of self-learning, motivation and leadership. I feel comfortable in high-level projects and companies. I look forward to working with wonderful people that you can learn and share from every day.
 
 
 ### Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="https://www.flaticon.com/premium-icon/youtube_2875432?term=youtube&page=1&position=3&page=1&position=3&related_id=2875432&origin=search" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
